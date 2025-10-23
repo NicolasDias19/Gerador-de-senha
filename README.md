@@ -10,10 +10,6 @@ Um aplicativo gráfico simples para gerar senhas seguras e personalizadas, desen
 - Botão para copiar a senha gerada para a área de transferência.
 - Mensagens explicativas e feedback visual.
 
-## Captura de Tela
-
-![Exemplo da interface](screenshot.png)
-
 
 ### Dependências
 
