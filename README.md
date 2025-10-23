@@ -1,7 +1,7 @@
 # Gerador-de-senhas
 
 Um aplicativo gráfico simples para gerar senhas seguras e personalizadas, desenvolvido em Python com Tkinter.
-
+ 
 ## Funcionalidades
 
 - Geração de senhas com letras maiúsculas, minúsculas, números e caracteres especiais.
